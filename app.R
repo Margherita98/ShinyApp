@@ -8,7 +8,7 @@ library(lubridate)
 library("readxl")
 
 #Load my data
-neet <- read_excel('/Users/margheritamaroni/Desktop/NEET/NEET.xlsx')
+neet <- read_excel('https://raw.github.com/Margherita98/ShinyApp/blob/main/NEET.xlsx')
 neet
 
 #example of ggplot
