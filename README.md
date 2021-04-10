@@ -10,6 +10,7 @@ I took the data from Istat (<http://dati.istat.it/Index.aspx?DataSetCode=DCCV_NE
 
 ## Required packages:
 **Install necessary packages** 
+
 First of all, in order to run my ShinyApp, you need to install the following packages: 
 ```R
 install.packages('shiny')
@@ -27,6 +28,7 @@ library(plotly)
 
 ## Run the App:
 **Execution of the App**
+
 Then, you can execute the App, running the following code:
 
 ```R
