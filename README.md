@@ -1,5 +1,5 @@
 # Coding for data science, R project: A ShinyApp to visualize statistics of NEET people in Italy 
-### Midterm exam of Margherita Maroni, matriculation number: 965589
+### Midterm exam of Margherita Maroni, badge number: 965589
 
 I created a ShinyApp to eveluate the incidence of **NEET** people in Italy. NEET is an acronym for **"Not in Education, Employment, or Training"** and it refers to a person who is unemployed and not receiving an education or vocational training. 
 The percentage of NEET people on the whole italian population is quite high: in Italy, near 20% of people are living in this situation. The percentage is either higher when we analyze regions in Southern Italy, where the mean of NEET people is around 30%. 
