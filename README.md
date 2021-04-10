@@ -37,7 +37,8 @@ shiny::runGitHub('ShinyApp', 'Margherita98', ref='main')
 
 ## What you will be displayed:
 
-It will result in a ShinyApp with two tabPanel: 
+It will result in a ShinyApp with two tabPanel:
+
 - The first one is a Bar Plot that shows the percentage of NEET people in each Italian region. You can select a region, a macro area of Italy (North, South, Center) or Italy itself. Then, you can select the gender: male, female or a variable I called 'total' that contains the mean between male and female NEET people. The numbers that you see on the bars represent the percentage of NEET italian young people for all the three years under consideration (2018-2019-2020)
 
 - The second tabPanel is a boxplot: I decided to perform some basic statistical analysis. When you select the gender on the left, you are displayed three boxplots (one for each year). The three boxplots are interactive: you can see the minimum and the maximum value, the median of each year and the quartiles' distribution of NEET people 
