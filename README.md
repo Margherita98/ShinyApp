@@ -47,7 +47,7 @@ On the side bar panel you can select the  ```gender``` you want to plot:
 The results are always three boxplots: one for each year. The boxplots are interactive too: if the user moves the cursor, it is possible to visualize the **minimum** and the **maximum** value, the **median** of each boxplot and the **quartiles' distributions** of NEET people.  
 
 
-## Run of the Shiny App 
+## Run the Shiny App 
 
 If you want to run the application on your personal computer, you should previosly install R (follow this link: <https://cran.mirror.garr.it/CRAN/> , available for Linux, Mac - OSX, and Windows ) and RStudio (follow this link: <https://www.rstudio.com/products/team/>). 
 Then, you should write the following command on your console: 
