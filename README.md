@@ -7,7 +7,7 @@ If you like to visualize the app from smartphone and computer you can click on: 
 I created a ShinyApp to eveluate the incidence of **NEET** people in Italy. NEET is an acronym for **"Not in Education, Employment, or Training"** and it refers to a person who is unemployed and not receiving an education or vocational training. 
 The percentage of NEET people on the whole italian population is quite high: in Italy, near 20% of people are living in this situation. The percentage is either higher when we analyze regions in Southern Italy, where the mean of NEET people is around 30%. 
 
-I decided to do my ShinyApp on Italian NEET people because I think that it is a very **dangerous social phenomenon** to which politics does not pay enough attention. Even though Italy is the worst European Country for education, nobody does something to help these category of people. 
+I decided to do my ShinyApp on Italian NEET people because I think that it is a very **dangerous social phenomenon** to which politics does not pay enough attention. Even though Italy is the worst European Country for education, nobody does anything to help these category of people. 
 I think we should all be aware that there some peers of us who are living one of the worst social and psychological situation ever. The Italian Government and the Ministry of Education should do something to aid these young unlucky people. 
 
 I took the data from the Italian Institute of Statistics **Istat** (<http://dati.istat.it/Index.aspx?DataSetCode=DCCV_NEET1>) and I selected NEET people between 15 and 29 years old, both male and female. 
@@ -54,6 +54,3 @@ Then, you should write the following command on your console:
 
  ```shiny::runGitHub('ShinyApp', 'Margherita98', ref = 'main')``` 
 
-
-
-.... 
