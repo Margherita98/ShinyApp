@@ -8,7 +8,7 @@ I created a ShinyApp to eveluate the incidence of **NEET** people in Italy. NEET
 The percentage of NEET people on the whole italian population is quite high: in Italy, near 20% of people are living in this situation. The percentage is either higher when we analyze regions in Southern Italy, where the mean of NEET people is around 30%. 
 
 I decided to do my ShinyApp on Italian NEET people because I think that it is a very **dangerous social phenomenon** to which politics does not pay enough attention. Even though Italy is the worst European Country for education, nobody does anything to help these category of people. 
-I think we should all be aware that there some peers of us who are living one of the worst social and psychological situation ever. The Italian Government and the Ministry of Education should do something to aid these young unlucky people. 
+I think we should all be aware that there are some peers of us who are living one of the worst social and psychological situation ever. The Italian Government and the Ministry of Education should do something to aid these young unlucky people. 
 
 I took the data from the Italian Institute of Statistics **Istat** (<http://dati.istat.it/Index.aspx?DataSetCode=DCCV_NEET1>) and I selected NEET people between 15 and 29 years old, both male and female. 
 
@@ -22,7 +22,7 @@ In this section there is is a barplot that shows the percentage of NEET people i
 From the side bar panel you can select: 
 
 - One of the 20 ```Italian Regions```
-- A macro area of Italy (``` North, South and Centre```)
+- A macro area of Italy (```North, South and Centre```)
 - ```Italy```
 
 Then, you can select the gender you want to plot: 
